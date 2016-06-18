@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Mobile Pomodoro</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_task">Nova Tarefa</string>
+    <string name="title_activity_teste">Teste</string>
+    <string name="task_name">Nome da tarefa</string>
+    <string name="task_detail">Descrição da tarefa</string>
+    <string name="task_pomo_quantity">Qtde. Pomodoros</string>
+    <string name="save">Salvar</string>
+    <string name="task">Tarefa</string>
+    <string name="dots">...</string>
+    <string name="edit_task">Editar tarefa</string>
+    <string name="details">Details...</string>
+    <string name="title_activity_start">StartActivity</string>
+    <string name="no_tasks">Nenhuma Tarefa</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="finish">Concluir</string>
+</resources>
